@@ -39,6 +39,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codewithlenny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithlenny" /></a><a href="https://ko-fi.com/codewithlennylen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codewithlennylen" /></a></p><br><br>
 
+  <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithlennylen&show_icons=true&locale=en&layout=compact" alt="codewithlennylen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithlennylen&show_icons=true&locale=en" alt="codewithlennylen" /></p>
