@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lenny Ng'ang'a</h1>
-<h3 align="center">A Fullstack Python Developer, AWS Community Builder, and Deep Learning Enthusiast.</h3>
+<h3 align="center">Roboticist | Backend Developer | Teacher</h3>
 
 
 <p align="left"> <a href="https://twitter.com/codewithlenny" target="blank"><img src="https://img.shields.io/twitter/follow/codewithlenny?logo=twitter&style=for-the-badge" alt="codewithlenny" /></a> </p>
