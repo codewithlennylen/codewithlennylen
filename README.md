@@ -4,21 +4,21 @@
 
 <p align="left"> <a href="https://twitter.com/codewithlenny" target="blank"><img src="https://img.shields.io/twitter/follow/codewithlenny?logo=twitter&style=for-the-badge" alt="codewithlenny" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Vision for Robotics Applications](https://github.com/codewithlennylen/internship2023)
+- 🔭 I’m currently working on [Wire Arc Additive Manufacturing using KUKA Industrial Robot Arm](https://github.com/roboticsdojo)
 
-- 🌱 I’m currently preparing for my **AWS Certification**
+- 🌱 I’m exctied about Computer Vision & Perception in Robotics.
 
-- 👯 I’m looking to collaborate on [The Kenya Twitter Developers Community](https://github.com/Twitter-Developer-Community-KE)
+- 👯 I’m looking to collaborate on the [ROS-based KUKA KVP Command Interface](https://github.com/roboticsdojo/kuka_kvp_command_interface) that I developed.
 
 - 📝 I regularly write articles on [https://codewithlennylen.hashnode.dev](https://codewithlennylen.hashnode.dev)
 
-- 💬 Ask me about **Python, Flask, Amazon Web Services (AWS), Artificial Intelligence (AI) & Deep Learning (DL), Web Development**
+- 💬 Ask me about **Robots, Computer Vision, Web3, Cloud Computing, Deep Learning (DL), & Teaching ;)**
 
 - 📫 How to reach me **codewithlennylen254@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lenny-nganga-wanjiru/](https://www.linkedin.com/in/lenny-nganga-wanjiru/)
 
-- ⚡ Fun fact **You can never have enough coffee!**
+- ⚡ Rule No. 4 **Compare yourself to who you were yesterday, not to who someone else is today.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
