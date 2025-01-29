@@ -4,15 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/codewithlenny" target="blank"><img src="https://img.shields.io/twitter/follow/codewithlenny?logo=twitter&style=for-the-badge" alt="codewithlenny" /></a> </p>
 
-- 🔭 I’m currently working on [Wire Arc Additive Manufacturing using KUKA Industrial Robot Arm](https://github.com/roboticsdojo)
+- 🔭 I’m currently working on [Wire Arc Additive Manufacturing using the KUKA KR6 Industrial Robot Arm](https://github.com/roboticsdojo)
 
-- 🌱 I’m exctied about Computer Vision & Perception in Robotics.
+- 🌱 AMA about Backends, Robots & Rockets.
 
 - 👯 I’m looking to collaborate on the [ROS-based KUKA KVP Command Interface](https://github.com/roboticsdojo/kuka_kvp_command_interface) that I developed.
 
-- 📝 I regularly write articles on [https://codewithlennylen.hashnode.dev](https://codewithlennylen.hashnode.dev)
-
-- 💬 Ask me about **Robots, Computer Vision, Web3, Cloud Computing, Deep Learning (DL), & Teaching ;)**
+- 📝 I stopped regularly writing articles on [https://codewithlennylen.hashnode.dev](https://codewithlennylen.hashnode.dev)
 
 - 📫 How to reach me **codewithlennylen254@gmail.com**
 
