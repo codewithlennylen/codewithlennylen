@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewithlenny" target="blank"><img src="https://img.shields.io/twitter/follow/codewithlenny?logo=twitter&style=for-the-badge" alt="codewithlenny" /></a> </p>
 
-- 🔭 I’m currently working on [Wire Arc Additive Manufacturing using the KUKA KR6 Industrial Robot Arm]([https://github.com/roboticsdojo](https://github.com/Wire-Arc-Additive-Manufacturing-WAAM))
+- 🔭 I’m currently working on [Wire Arc Additive Manufacturing using the KUKA KR6 Industrial Robot Arm](https://github.com/Wire-Arc-Additive-Manufacturing-WAAM)
 
 - 🌱 AMA about Backends, Robots & Rockets.
 
